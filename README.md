@@ -1,28 +1,28 @@
 # BarCodeTech Solutions
 
 ### RentSystem
-
+A Rent Management System For Building.
 ```bash
 URL: http://rent.careerclub.net/login
 EMAIL: 
 PASS: 
 ```
 ### TosrifaDyeing
-
+A Dyeing Management System For Northern Tosrifa Group.
 ```bash
 URL: http://tosrifa.careerclub.net/login
 EMAIL: admin@admin.com
 PASS: 123456
 ```
 ### Meeting Minutes
-
+A Mangement System For Agile Meeting Minutes.
 ```bash
 URL: http://mm.careerclub.net/login
 EMAIL: admin@admin.com
 PASS: 123456
 ```
 ### JobCard
-
+A Module Of Knitting Garments. 
 ```bash
 URL: 
 EMAIL: 
