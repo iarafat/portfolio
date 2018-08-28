@@ -4,8 +4,8 @@
 A Rent Management System For Building.
 ```bash
 URL: http://rent.careerclub.net/login
-EMAIL: 
-PASS: 
+EMAIL: admin@admin.com
+PASS: 123456 
 ```
 ### TosrifaDyeing
 A Dyeing Management System For Northern Tosrifa Group.
@@ -15,7 +15,7 @@ EMAIL: admin@admin.com
 PASS: 123456
 ```
 ### Meeting Minutes
-A Mangement System For Agile Meeting Minutes.
+A Mangement System For Meeting Minutes.
 ```bash
 URL: http://mm.careerclub.net/login
 EMAIL: admin@admin.com
