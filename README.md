@@ -40,7 +40,7 @@ PASS:
 
 # Datasys
 
-* Robi App (Sending TV Program via SMS to Robi Users. Working On "Application, Message, Subscriptions, TvChannel, TvProgram" Modules).
+* Robi App (Sending TV Programs via SMS to Robi Users. Working On "Application, Message, Subscriptions, TvChannel, TvProgram" Modules).
 * Customization (HTML, CSS, PHP).
   - http://bdjobbank.com
   - http://www.banglabid.com
