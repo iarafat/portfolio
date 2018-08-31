@@ -2,18 +2,10 @@
 
 ### RentSystem
 A Rent Management System For Building.
-```bash
-URL: http://rent.careerclub.net/login
-EMAIL: admin@admin.com
-PASS: 123456 
-```
+
 ### TosrifaDyeing
-A Dyeing Management System For Northern Tosrifa Group.
-```bash
-URL: http://tosrifa.careerclub.net/login
-EMAIL: admin@admin.com
-PASS: 123456
-```
+A Dyeing Management System For Dyeing Factory.
+
 ### Meeting Minutes
 A Mangement System For Meeting Minutes.
 ```bash
@@ -22,12 +14,11 @@ EMAIL: admin@admin.com
 PASS: 123456
 ```
 ### JobCard
-A Module Of Knitting Garments. 
-```bash
-URL: 
-EMAIL: 
-PASS: 
-```
+A Module Of Garments. 
+
+### Customization (HTML, CSS, PHP)
+* Sample Tracking System (A Tracking System For Garments).
+* Sticker Mapping (A Sample Label Mapping System For Garments).
 
 # Proficient IT Solutions
 
