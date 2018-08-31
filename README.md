@@ -31,14 +31,34 @@ PASS:
 
 # Proficient IT Solutions
 
-* EvaluationPlus (Survey, Quiz, Evaluation).
+### EvaluationPlus (Quiz, Evaluation, Survey).
+```bash
+Quiz
+-----
+URL: http://67.205.170.231/company/theme-yellow/admin/login
+E: arafat@themeyellow.com
+P: 123456
+
+Evaluation
+------------
+URL: http://67.205.170.231/company/theme-yello17/admin/login
+E: gfhfgh@yahoo.com
+P: 123456
+
+Survey
+--------
+URL: http://67.205.170.231/company/new-profile/admin/login
+E: newprofile@site.com 
+P: 123456
+```
+
 * Proficient (Website For Porficient IT).
 * MultiUser Site (Multi User Management).
 * Php Skype (Web Skype For WebSite).
 * Alumni Association (WebSite For Alumni Association).
 * MyBikeRider (Rider Registration For Ride Share Service).
 
-# Datasys
+# Datasys Limited
 
 * Robi App (Sending TV Programs via SMS to Robi Users. Working On "Application, Message, Subscriptions, TvChannel, TvProgram" Modules).
 * Customization (HTML, CSS, PHP).
@@ -48,7 +68,7 @@ PASS:
   - WP Plugin
   - WP Avada Theme
 
-# HasTech
+# HasTech - Creative Web Solutions
 
 * BestMarket (https://themeforest.net/item/bestmarket-multipurpose-ecommerce-template/18734180).
 
