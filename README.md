@@ -8,11 +8,7 @@ A Dyeing Management System For Dyeing Factory.
 
 ### Meeting Minutes
 A Mangement System For Meeting Minutes.
-```bash
-URL: http://mm.careerclub.net/login
-EMAIL: admin@admin.com
-PASS: 123456
-```
+
 ### JobCard
 A Module Of Garments. 
 
@@ -22,27 +18,7 @@ A Module Of Garments.
 
 # Proficient IT Solutions
 
-### EvaluationPlus (Quiz, Evaluation, Survey).
-```bash
-Quiz
------
-URL: http://67.205.170.231/company/theme-yellow/admin/login
-E: arafat@themeyellow.com
-P: 123456
-
-Evaluation
-------------
-URL: http://67.205.170.231/company/theme-yello17/admin/login
-E: gfhfgh@yahoo.com
-P: 123456
-
-Survey
---------
-URL: http://67.205.170.231/company/new-profile/admin/login
-E: newprofile@site.com 
-P: 123456
-```
-
+* EvaluationPlus (Quiz, Evaluation, Survey).
 * Proficient (Website For Porficient IT).
 * MultiUser Site (Multi User Management).
 * Php Skype (Web Skype For WebSite).
@@ -53,8 +29,8 @@ P: 123456
 
 * Robi App (Sending TV Programs via SMS to Robi Users. Working On "Application, Message, Subscriptions, TvChannel, TvProgram" Modules).
 * Customization (HTML, CSS, PHP).
-  - http://bdjobbank.com
-  - http://www.banglabid.com
+  - bdjobbank.com
+  - banglabid.com
   - SarchLght
   - WP Plugin
   - WP Avada Theme
