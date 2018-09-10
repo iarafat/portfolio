@@ -1,13 +1,13 @@
 # BarCodeTech Solutions
 
 ### RentSystem
-A Rent Management System For Building. There Have Buildings, Floors, RentAble Units, Tenants, Service Fee Items, Invoices, Expenses Heads And Expenses Details Section.
+A Rent Management System For Building. There Have Buildings, Floors, RentAble Units, Tenants, Service Fee Items, Invoices, Expenses Heads And Expenses Details Section. [Some class file of these project](https://github.com/iarafat/codes/tree/master/rent-system).
 
 ### TosrifaDyeing
-A Dyeing Management System For Dyeing Factory. There have Machines, Programs, Shades, Dyeing Programs (Grid, List View) And Sjettings Section.
+A Dyeing Management System For Dyeing Factory. There have Machines, Programs, Shades, Dyeing Programs (Grid, List View) And Sjettings Section. [Some class file of these project](https://github.com/iarafat/codes/tree/master/tosrifa-dyeing).
 
 ### Meeting Minutes
-A Mangement System For Meeting Minutes. There have Dashboard, Projects, Roles, Locations, Tags, Invitations And Meetings Section.
+A Mangement System For Meeting Minutes. There have Dashboard, Projects, Roles, Locations, Tags, Invitations And Meetings Section. [Some class file of these project](https://github.com/iarafat/codes/tree/master/meeting-minutes).
 
 ### Customization (HTML, CSS, PHP)
 * Sample Tracking System (A Tracking System For Garments). There I Added The New Field And Organized Them.
