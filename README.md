@@ -2,12 +2,30 @@
 
 ### RentSystem
 A Rent Management System For Building. There Have Buildings, Floors, RentAble Units, Tenants, Service Fee Items, Invoices, Expenses Heads And Expenses Details Section. [Some class file of these project](https://github.com/iarafat/codes/tree/master/rent-system).
+ ##### Demo of RentSystem
+```bash
+URL: http://rent.careerclub.net/login
+EMAIL: admin@admin.com
+PASS: 123456 
+```
 
 ### TosrifaDyeing
 A Dyeing Management System For Dyeing Factory. There have Machines, Programs, Shades, Dyeing Programs (Grid, List View) And Sjettings Section. [Some class file of these project](https://github.com/iarafat/codes/tree/master/tosrifa-dyeing).
+ ##### Demo of TosrifaDyeing
+```bash
+URL: http://tosrifa.careerclub.net/login
+EMAIL: admin@admin.com
+PASS: 123456
+```
 
 ### Meeting Minutes
 A Mangement System For Meeting Minutes. There have Dashboard, Projects, Roles, Locations, Tags, Invitations And Meetings Section. [Some class file of these project](https://github.com/iarafat/codes/tree/master/meeting-minutes).
+ ##### Demo of Meeting Minutes
+```bash
+URL: http://mm.careerclub.net/login
+EMAIL: admin@admin.com
+PASS: 123456
+```
 
 ### Customization (HTML, CSS, PHP)
 * Sample Tracking System (A Tracking System For Garments). There I Added The New Field And Organized Them.
@@ -40,6 +58,24 @@ A Mangement System For Meeting Minutes. There have Dashboard, Projects, Roles, L
     - Analysis
     - Settings
     - Contact Admin Section.
+ ##### Demo of EvaluationPlus
+ ```bash
+Quiz
+-----
+URL: http://67.205.170.231/company/theme-yellow/admin/login
+E: arafat@themeyellow.com
+P: 123456
+ Evaluation
+------------
+URL: http://67.205.170.231/company/theme-yello17/admin/login
+E: gfhfgh@yahoo.com
+P: 123456
+ Survey
+--------
+URL: http://67.205.170.231/company/new-profile/admin/login
+E: newprofile@site.com 
+P: 123456
+```
   
 * Proficient (A PHP Dynamic Website For Porficient IT).
 * MultiUser Site (A PHP Multi User Management System).
