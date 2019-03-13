@@ -1,7 +1,8 @@
 # Primex Systems
 Developed various web application by using Object Oriented PHP, Laravel with Vue.js and design REST API.
 
-BarCodeTech Solutions
+
+# BarCodeTech Solutions
 
 ### RentSystem
 A Rent Management System For Building. There Have Buildings, Floors, RentAble Units, Tenants, Service Fee Items, Invoices, Expenses Heads And Expenses Details Section. [Some class file of these project](https://github.com/iarafat/codes/tree/master/rent-system).
