@@ -1,5 +1,5 @@
 # Primex Systems
-Developed various web application by using Object Oriented PHP, Laravel with Vue.js and design REST API.
+Developed various web application by using Object Oriented PHP, Laravel, Lumen with Vue.js and design REST API.
 
 
 # BarCodeTech Solutions
