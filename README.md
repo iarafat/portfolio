@@ -54,17 +54,17 @@ A Mangement System For Meeting Minutes. There have Dashboard, Projects, Roles, L
  ```bash
 Quiz
 -----
-URL: http://67.205.170.231/company/theme-yellow/admin/login
+URL: https://evaluationplus.codehunter.dev/company/theme-yellow/admin/login
 E: arafat@themeyellow.com
 P: 123456
  Evaluation
 ------------
-URL: http://67.205.170.231/company/theme-yello17/admin/login
+URL: https://evaluationplus.codehunter.dev/company/theme-yello17/admin/login
 E: gfhfgh@yahoo.com
 P: 123456
  Survey
 --------
-URL: http://67.205.170.231/company/new-profile/admin/login
+URL: https://evaluationplus.codehunter.dev/company/new-profile/admin/login
 E: newprofile@site.com 
 P: 123456
 ```
